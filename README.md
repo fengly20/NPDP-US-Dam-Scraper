@@ -8,7 +8,7 @@ The code is not totally robust if the html_file read in from any of urls is not 
 
 ## Known issues: 
 
-1. the [url http://npdp.stanford.edu/data_access/international_dams_view.php?editid1=NPDPUSA0029068#](http://npdp.stanford.edu/data_access/international_dams_view.php?editid1=NPDPUSA0029068#) does not return a dam page and stops the for loop. 
+1. the url [http://npdp.stanford.edu/data_access/international_dams_view.php?editid1=NPDPUSA0029068#](http://npdp.stanford.edu/data_access/international_dams_view.php?editid1=NPDPUSA0029068#) does not return a dam page and stops the for loop. 
 
 
 
